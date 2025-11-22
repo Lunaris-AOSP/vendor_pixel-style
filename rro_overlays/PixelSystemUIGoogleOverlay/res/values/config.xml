@@ -26,4 +26,6 @@
    <string-array name="config_useActivityLogoForBiometricPrompt">
         <item>com.google.android.gms</item>
     </string-array>
+
+    <string name="focal_area_target" translatable="false">com.google.android.apps.magicportrait.service.MagicPortraitWallpaperService</string>
 </resources>
