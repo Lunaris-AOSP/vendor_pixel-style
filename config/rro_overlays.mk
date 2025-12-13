@@ -54,4 +54,5 @@ PRODUCT_PACKAGES += \
     UdfpsOverlay \
     WallpaperPicker2Overlay \
     WallpaperPicker2PixelOverlay \
-    WildlifeSettingsVpnOverlay2022
+    WildlifeSettingsVpnOverlay2022 \
+    PixelWallpaperOverlay
