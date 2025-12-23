@@ -51,6 +51,7 @@ PRODUCT_PACKAGES += \
     PixelTelecom \
     Pixelframework-res \
     SystemUIGXOverlay \
+    UdfpsOverlay \
     WallpaperPicker2Overlay \
     WallpaperPicker2PixelOverlay \
     WildlifeSettingsVpnOverlay2022
