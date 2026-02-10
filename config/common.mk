@@ -65,11 +65,6 @@ else
 PRODUCT_PRODUCT_PROPERTIES += ro.setupwizard.rotation_locked=true
 endif
 
-# StorageManager configuration
-PRODUCT_PRODUCT_PROPERTIES += \
-    ro.storage_manager.enabled=false \
-    ro.storage_manager.show_opt_in=false
-
 # Google legal
 PRODUCT_PRODUCT_PROPERTIES += \
     ro.url.legal=http://www.google.com/intl/%s/mobile/android/basic/phone-legal.html \
