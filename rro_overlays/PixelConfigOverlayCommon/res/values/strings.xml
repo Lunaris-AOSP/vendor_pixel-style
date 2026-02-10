@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="android_start_title">Pixel is starting…</string>
-    <string name="android_upgrading_title">Pixel is updating…</string>
+    <string name="android_start_title" translatable="false">Lunaris is starting…</string>
+    <string name="android_upgrading_title" translatable="false">Lunaris is updating…</string>
     <string name="config_ambientContextEventArrayExtraKey">EVENT_ARRAY</string>
     <string name="config_ambientContextPackageNameExtraKey">PACKAGE_NAME</string>
     <string name="config_defaultAmbientContextConsentComponent">com.google.android.as/com.google.android.apps.miphone.aiai.ambientcontext.ui.ConsentActivity</string>
